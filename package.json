@@ -1,0 +1,9 @@
+{
+    "name": "restapi",
+    "main": "server.js",
+    "dependencies": {
+        "express": "~4.13.2",
+        "mongoose": "~4.1.0",
+        "body-parser": "~1.13.3"
+    }
+}
